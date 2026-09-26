@@ -39,3 +39,6 @@ section h2 {
   border-bottom: 1px solid #ddd;
   padding-bottom: 8px;
 }
+nav a:hover {
+  color: #0066cc;
+}
