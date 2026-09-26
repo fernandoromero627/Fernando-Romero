@@ -20,3 +20,13 @@ header p {
   font-size: 18px;
   color: #666;
 }
+nav {
+  margin-top: 20px;
+}
+
+nav a {
+  margin: 0 12px;
+  text-decoration: none;
+  color: #333;
+  font-weight: bold;
+}
