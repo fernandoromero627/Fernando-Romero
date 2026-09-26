@@ -33,3 +33,9 @@ nav a {
 section {
   margin-bottom: 50px;
 }
+section h2 {
+  font-size: 30px;
+  margin-bottom: 20px;
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 8px;
+}
