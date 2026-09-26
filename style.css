@@ -40,6 +40,5 @@ section h2 {
   padding-bottom: 8px;
 }
 nav a:hover {
-  color: red !important;
-  background-color: yellow;
+  color: #0066cc;
 }
