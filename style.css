@@ -57,3 +57,7 @@ nav a:hover {
     font-size: 26px;
   }
 }
+header {
+  border-bottom: 1px solid #ddd;
+  margin-bottom: 40px;
+}
