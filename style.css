@@ -45,3 +45,21 @@ section h2 {
 nav a:hover {
   color: #0066cc;
 }
+@media (max-width: 600px) {
+  body {
+    padding: 20px;
+  }
+
+  header h1 {
+    font-size: 36px;
+  }
+
+  nav a {
+    display: inline-block;
+    margin: 6px 8px;
+  }
+
+  section h2 {
+    font-size: 26px;
+  }
+}
