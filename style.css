@@ -1,4 +1,8 @@
 html {
+  background: linear-gradient(135deg, #dfeee3, #b9d8c2);
+  min-height: 100%;
+}
+html {
   scroll-behavior: smooth;
 }
 html {
